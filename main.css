@@ -2,19 +2,19 @@
     box-sizing: border-box;
     margin:auto;
 }
-/* body{
+ body{
     background-image: url(خلفيات-كمبيوتر-2021.jpg);
     background-position: center;
     background-size:cover;
     background-attachment: fixed;
-    background-repeat: no-repeat; */
+    background-repeat: no-repeat; 
 }
 
 .game {
     background-image: var(70%);
     min-height: 100%;
     text-align: center;
-    color: rgb(252, 247, 247);
+    color: rgb(145, 129, 129);
 }
 .container {
     margin:auto;
